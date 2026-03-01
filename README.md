@@ -4,8 +4,6 @@ An interactive Python application that visualizes two informed search algorithms
 Application: Dynamic Pathfinding Agent
 GUI Library: Tkinter (Built-in, no external dependencies)
 
-https://screenshots/demo.png
-
 Features
 Algorithm	Description	Priority
 A* Search	Combines actual cost g(n) + heuristic h(n)	f(n) = g(n) + h(n)
